@@ -1,0 +1,22 @@
+# Keil build output and per-user IDE state
+/firmware/MDK-ARM/watch_1-2/
+*.o
+*.obj
+*.axf
+*.hex
+*.crf
+*.d
+*.lst
+*.map
+*.lnp
+*.sct
+*.build_log.htm
+*.uvoptx
+*.uvgui*
+*.bak
+*.log
+
+# Local editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,3 @@
+# Keep imported firmware and reference snapshots byte-for-byte, including BOMs.
+/firmware/** -text
+/docs/modules/reference/** -text

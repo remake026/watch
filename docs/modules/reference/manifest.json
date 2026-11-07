@@ -1,0 +1,130 @@
+{
+    "snapshot_date":  "2026-11-07",
+    "description":  "当前本地工程的教学对照快照；不是可独立构建的完整固件。",
+    "files":  [
+                  {
+                      "path":  "bsp/animation_page.c",
+                      "sha256":  "08cf7f6e8f772275e4bddc4e64ecec303a7b8930dd31079b9e1bce821db385f6"
+                  },
+                  {
+                      "path":  "bsp/animation_page.h",
+                      "sha256":  "d10e2019f72ca303301392bf894b5ba1475e70560ed52e056895ed64c9dc2c64"
+                  },
+                  {
+                      "path":  "bsp/app.c",
+                      "sha256":  "ba1d7c430eee705c2a6f17c1f2b9c64c62bb89c1cb65ed442f4746bab6bf5118"
+                  },
+                  {
+                      "path":  "bsp/app.h",
+                      "sha256":  "c0f7ba4321865c0982c8ee956619ad78c970e5cd9284b3d8db3fd55b841b91c9"
+                  },
+                  {
+                      "path":  "bsp/game.c",
+                      "sha256":  "9986cb3de15da21a612442315d3890f7401747acc1e45026ce039df7fb510833"
+                  },
+                  {
+                      "path":  "bsp/game.h",
+                      "sha256":  "c5719fa66493b0f9202159d708cab27d68e1767868b6a1f5393ff1cc16960b73"
+                  },
+                  {
+                      "path":  "bsp/game_page.c",
+                      "sha256":  "b4b8fa610ef167c1061b814aec0977aa2cf2828d3661405cf772fdad14c2143b"
+                  },
+                  {
+                      "path":  "bsp/game_page.h",
+                      "sha256":  "25c7b625b5324267769484bc7e1eb490ccfe2a0e86fd4610639e4e89977f3ae4"
+                  },
+                  {
+                      "path":  "bsp/home_page.c",
+                      "sha256":  "b30a84f3051fe932d23aea8ba1576904bc5bd94002d4d48c6d533ac2ed1b59b2"
+                  },
+                  {
+                      "path":  "bsp/home_page.h",
+                      "sha256":  "4f4793e6593f507dd1cd80822c0e648b4725e99c997b7aa65bdc04809d6ecab6"
+                  },
+                  {
+                      "path":  "bsp/key.c",
+                      "sha256":  "3dfb366ec4f1aa3c18a6c44b34b655b4f2cddc684664e2f4bcc58493622dda05"
+                  },
+                  {
+                      "path":  "bsp/key.h",
+                      "sha256":  "b02039bec91cb4c4a062fd5ff8993e66eb2878eab7d8d3d6857b493513cebeae"
+                  },
+                  {
+                      "path":  "bsp/menu_page.c",
+                      "sha256":  "ee555f7af2ac9175358668d42ddfcaa48f1356a037c1a8d7802e833a5303f080"
+                  },
+                  {
+                      "path":  "bsp/menu_page.h",
+                      "sha256":  "afcdfdacb2904b83b3f0e2277e1faadf59492ba921d42aa9449178ae3265361f"
+                  },
+                  {
+                      "path":  "bsp/OLED.h",
+                      "sha256":  "c13b4852677dbbdff84f884ea274278e6a570b1f5055bec3854ec91c9d83d1a8"
+                  },
+                  {
+                      "path":  "bsp/OLED_Data.h",
+                      "sha256":  "be796d3241322da88ae4bdff0776bdb95c9fc75880008113a59a0a729b339b19"
+                  },
+                  {
+                      "path":  "bsp/OLED_HAL_Config.h",
+                      "sha256":  "ea26c47a2108b7b225a39c93aaec496e6d03ded4f572f834118d384a3428d9ed"
+                  },
+                  {
+                      "path":  "bsp/oled_test_page.c",
+                      "sha256":  "6799629883b9edf7f7fecdb8d4512b153874f23c3b3b88ccbfe28829fb2b6764"
+                  },
+                  {
+                      "path":  "bsp/oled_test_page.h",
+                      "sha256":  "ec37542601381b75098952baf9a4e7c219a38be245f457335e7fecbf51368868"
+                  },
+                  {
+                      "path":  "bsp/settings_page.c",
+                      "sha256":  "11d49d0d8a3622465f3dceb31bdeb1b2bde524215df57357a56aa945b3e92f3f"
+                  },
+                  {
+                      "path":  "bsp/settings_page.h",
+                      "sha256":  "8fcb19aeabc607b8684f5f465b974ae91e4e6690b39f34bb5d2e40961a8ba765"
+                  },
+                  {
+                      "path":  "bsp/stopwatch_page.c",
+                      "sha256":  "77ae5041d7cad321c162405a6c7936c2000d8a36dd72ed37464f4134eebd70b7"
+                  },
+                  {
+                      "path":  "bsp/stopwatch_page.h",
+                      "sha256":  "6a739d25b97fddb3d13c80dd8296ceb5db99a15480f5538f79f83e5d3f7d16e1"
+                  },
+                  {
+                      "path":  "bsp/watch_config.h",
+                      "sha256":  "50837c66251094b4b64784e8fbd96b391aed8e859f58aca91985858e1851950d"
+                  },
+                  {
+                      "path":  "Core/Src/main.c",
+                      "sha256":  "c0ef5653667538394e827aedd01c7feef1b7b90d3368951a9c6a5a614b67a97a"
+                  },
+                  {
+                      "path":  "Core/Src/rtc.c",
+                      "sha256":  "3af2ab73b54f7b08de832645bff036472103ef8d3317b9951720ac9813dba0dd"
+                  },
+                  {
+                      "path":  "Core/Src/tim.c",
+                      "sha256":  "aef0dd2cd55c70c9c1bcc2e6cecd668ab1644d0f81a70f24a3d43c46419783ad"
+                  },
+                  {
+                      "path":  "Core/Src/i2c.c",
+                      "sha256":  "599e29def987aec6ee287cdf8b578ad9018b113e8c64d978b2fa2bb6d7280a04"
+                  },
+                  {
+                      "path":  "Core/Src/gpio.c",
+                      "sha256":  "79061607b67cdd024497d27c175420e9b14b1042a82e7711f014e88b19a0f6e3"
+                  },
+                  {
+                      "path":  "Core/Src/stm32f1xx_it.c",
+                      "sha256":  "49aef44087b9f33beaaf55ced653a46c8579334b4f4019e92e530e99cd6b0b5f"
+                  },
+                  {
+                      "path":  "Core/Inc/rtc.h",
+                      "sha256":  "ab0488011468a5efa5b42c3709ca34d25fcfc656fe6340cebea5e96adb3945f0"
+                  }
+              ]
+}
